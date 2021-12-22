@@ -376,6 +376,10 @@ section {
   .trainer {
     flex: 0 70%;
   }
+
+  .contact-info iframe {
+    flex: 1 100%;
+  }
 }
 
 /* MEDIA QUERY FOR TABLETS AND SMALLER than 768px */
